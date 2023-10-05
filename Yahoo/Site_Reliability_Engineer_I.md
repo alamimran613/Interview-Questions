@@ -13,8 +13,9 @@
 
 # Online coding test and Industry-Wide Technologies
 1. Bash Scripting, Python and Go Language
-2. For Loop in Bash
-3. How To Pull Code From GitHub?
+2. For Loop in Bash?
+3. What is Git?
+4. How To Pull Code From GitHub?
 
 # Troubleshooting Linux and Networking
 1. Basic Linux Commands?
