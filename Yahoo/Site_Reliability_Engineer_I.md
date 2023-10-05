@@ -15,7 +15,6 @@
 1. Bash Scripting, Python and Go Language
 2. For Loop in Bash
 3. How To Pull Code From GitHub?
-4. 
 
 # Troubleshooting Linux and Networking
 1. Basic Linux Commands?
