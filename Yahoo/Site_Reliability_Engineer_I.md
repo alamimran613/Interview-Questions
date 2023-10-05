@@ -26,3 +26,4 @@
 7. How To update Linux Kernel?
 8. What is Linux Kernel?
 9. What is SSL and TLS?
+10. What is Load Balancer
