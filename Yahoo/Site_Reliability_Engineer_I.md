@@ -8,8 +8,9 @@
 7. Benefit of Containerization?
 8. How Containerization Different From Machine?
 9. What kind of file we upload on S3?
-10. What is S3 Glacier?
-11. What is Fault Tolerant in Kafka?
+10. How To List Files of S3 Bucket using Command (AWS-CLi)?
+11. What is S3 Glacier?
+12. What is Fault Tolerant in Kafka?
 
 # Online coding test and Industry-Wide Technologies
 1. Bash Scripting, Python and Go Language
